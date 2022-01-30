@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 
@@ -12,6 +12,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKiranB&show_icons=true&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=AKiranB)
 
 <p align="center">
