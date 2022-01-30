@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex;">
+<div style="display:flex;align-items:center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKiranB&show_icons=true&theme=tokyonight)
 </br>
