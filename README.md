@@ -14,7 +14,8 @@
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKiranB&show_icons=true&theme=tokyonight)
-![](https://visitor-badge.laobi.icu/badge?page_id=AKiranB)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <p align="center">
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
