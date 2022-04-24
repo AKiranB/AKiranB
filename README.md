@@ -14,7 +14,6 @@
 -->
 <div style="display:flex;align-items:center;justify-content:center; flex-direction: column">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKiranB&show_icons=true&theme=tokyonight)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKiranB&theme=tokyonight)
 </div>
