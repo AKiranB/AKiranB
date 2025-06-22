@@ -6,8 +6,4 @@
 	<br>
 	
 <img src="https://github.com/user-attachments/assets/7b15450b-0883-4aac-beb2-f47b8ed06f42">
-
-</div>
-	Hey there! My name is Kiran, I'm a software developer currently working at flowkey
-</div>
 </div>
