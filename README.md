@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKiranB&layout=donut&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/rodrigogalura/github-readme-stats)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AKiranB&bg_color=000000&color=ffffff&line=ffffff&point=0a91b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 <img src="https://github.com/user-attachments/assets/7b15450b-0883-4aac-beb2-f47b8ed06f42">
 </div>
